@@ -26,3 +26,5 @@ There is no single “correct” solution.
 ## Deliverable
 
 Clone the repository, refactor the files, and send back the updated code through your own repository link.
+
+Please do not spend more than an hour on this.
