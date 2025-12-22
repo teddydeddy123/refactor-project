@@ -7,7 +7,7 @@ This is a refactor-only exercise — you do **not** need to run the code or prod
 
 
 ## Setup
-Please run yarn install to fix potential linting errors in Snackbar.tsx
+Please run **yarn install** to fix potential linting errors in Snackbar.tsx
 
 
 ## Goals
