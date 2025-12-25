@@ -1,7 +1,7 @@
 
 ## Refactoring Decisions
 
-### 1. Why the files are split this way
+### 1. Structure
 
 I split the component into smaller reusable files to make it easier to understand and maintain:
 
@@ -30,4 +30,4 @@ Before pushing code, run `yarn commit` to automatically check everything:
 -Verifies all types, code quality and formatting. If any check fails, the script stops and you'll need to fix the issues before committing
 
 # NOTE
-I've tried to follow best-practices for React/TypeScript, making it easier for other developers to  potentially understand and contribute.
+I've tried to follow production best-practices for React/TypeScript, making it easier for other developers to  potentially understand and contribute.
